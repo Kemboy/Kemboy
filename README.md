@@ -2,7 +2,7 @@
 - 👀 I’m interested in polishing my programming skills
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript projects
-- 📫 How to reach me cleophaskemboi@bytasoft.com
+- 📫 How to reach me cleophaskipkemoi@gmail.com or info@bytasoft.com
 
 <!---
 Kemboy/Kemboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
